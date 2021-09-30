@@ -64,7 +64,7 @@ button{
     height: 40px;
     margin-top: 20px;
     padding: 5px 10px;
-    margin-left: 100px;
+    
     color:whitesmoke;
     font-size:large;
     font-weight: bold;
@@ -79,5 +79,5 @@ button{
     font-size: large;
     font-weight: bold;
     border: none;
-    border-radius: 5%;
+    
 }

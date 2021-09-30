@@ -7,5 +7,77 @@
     padding:0;
 }
 
-/* Fill your code*/
+.header
+{
+    height: 70px;
+    background-color: rgb(116, 43, 43);
+}
+.main
+{
+    height: 650px;
+    background-color: plum;
+}
+.footer
+{
+    height:80px;
+    background-color: rgb(116, 43, 43);
+}
+.img1{
+    margin-top:250px;
+    margin-left:200px;
+}
+.img2{
+    margin-top:250px;
+    margin-left:750px;
+}
+.h1{
+    position: absolute;
+    top: 350px;
+    left: 290px;
+    font-weight: bold;
+    color:whitesmoke;
 
+   
+}
+.p1{
+    color:whitesmoke;
+    position: absolute;
+    top: 430px;
+    left: 260px;
+    font-size: larger;
+    font-weight: bold;
+            
+}
+.h2{
+    position: absolute;
+    top: 350px;
+    left: 1340px;
+    font-weight: bold;
+    color:whitesmoke;
+
+   
+}
+
+button{
+    background-color: plum;
+    width: 150px;
+    height: 40px;
+    margin-top: 20px;
+    padding: 5px 10px;
+    margin-left: 100px;
+    color:whitesmoke;
+    font-size:large;
+    font-weight: bold;
+    border: none;
+    border-radius: 5%;
+    
+}
+.b1{
+    color:whitesmoke;
+    background-color: yellowgreen;
+    margin-left:200px;
+    font-size: large;
+    font-weight: bold;
+    border: none;
+    border-radius: 5%;
+}

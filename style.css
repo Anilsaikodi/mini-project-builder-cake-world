@@ -16,6 +16,7 @@
 {
     height: 650px;
     background-color: plum;
+    
 }
 .footer
 {
@@ -64,7 +65,7 @@ button{
     height: 40px;
     margin-top: 20px;
     padding: 5px 10px;
-    margin-left: 100px;
+    margin-left: 80px;
     color:whitesmoke;
     font-size:large;
     font-weight: bold;
@@ -83,7 +84,7 @@ button{
 .cakeimg{
     position: absolute;
     background: black;
-    border-radius: 80%;
+    border-radius: 100%;
     border: 4px solid #d53369;
     width: 180px;
     height: 160px;
